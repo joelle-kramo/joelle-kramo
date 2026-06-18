@@ -13,7 +13,7 @@ Mon objectif est de développer une démarche rigoureuse de diagnostic, de réso
 ### Incidents
 Cas de dépannage documentés.
 
-- INC-00 – Plus d'accès Internet
+- INC-001 – Plus d'accès Internet
 - INC-002 – Imprimante réseau inaccessible
 - INC-003 – Compte utilisateur verrouillé
 
