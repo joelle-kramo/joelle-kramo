@@ -1,16 +1,11 @@
-## Hi there 👋
+## Bonjour, moi c'est Joëlle
+Future Technicienne Systèmes & Réseaux
+CompTIA A+ en cours
+CCNA en cours
+Ce GitHub regroupe mes laboratoires, procédures et cas de dépannage inspirés d'environnements professionnels.
+## En cours de construction
 
-<!--
-**joelle-kramo/joelle-kramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Base de connaissances Helpdesk
+- Labs Réseau CCNA
+- Administration Windows Server
+- Documentation technique
