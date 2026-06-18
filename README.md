@@ -4,7 +4,7 @@
 - CompTIA A+ en cours
 - CCNA en cours
 
-## A propos
+## À propos
 Bienvenue sur mon portfolio technique.
 Je documente ici des incidents informatiques, des procédures d'administration et des laboratoires réseaux inspirés de situations réelles rencontrées en entreprise.
 Mon objectif est de développer une démarche rigoureuse de diagnostic, de résolution et de documentation.
@@ -22,7 +22,7 @@ Cas de dépannage documentés.
 Documentation technique.
 
 - PROC-001 – Création d'un utilisateur Active Directory
-- PROC-002 — Réinitialisation d'un mot de passe
+- PROC-002 – Réinitialisation d'un mot de passe
 
 ### Réseau
 
