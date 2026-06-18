@@ -22,7 +22,7 @@ Cas de dépannage documentés.
 Documentation technique.
 
 - PROC-001 – Création d'un utilisateur Active Directory
-- PORC-002 — Réinitialisation d'un mot de passe
+- PROC-002 — Réinitialisation d'un mot de passe
 
 ### Réseau
 
