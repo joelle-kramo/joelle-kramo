@@ -6,8 +6,11 @@
 
 ## À propos
 Bienvenue sur mon portfolio technique. <br/>
+
 Je documente ici des incidents informatiques, des procédures d'administration et des laboratoires réseaux réalisés dans un cadre de formation et de simulation en environnement virtualisé. <br/>
+
 Les scénarios présentés sont inspirés de situations rencontrées en support informatique et reproduits dans des environnements de type HomeLab (Windows Server, Active Directory, réseaux simulés). <br/>
+
 Mon objectif est de développer une démarche rigoureuse de diagnostic, de résolution et de documentation proche des pratiques en entreprise.<br/>
 
 ## Navigation
