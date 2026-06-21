@@ -46,10 +46,10 @@ Documentation technique.
 
 ### Laboratoire
 
-- HomeLab Windows
-- Cisco Packet Tracer
-- VirtualBox
-- WMware Workstation
+- HomeLab Windows (Active Directory)
+- Virtualisation : VirtualBox / WMware Workstation
+- Réseaux : Cisco Packet Tracer
+
 
 ## Objectif 2026
 
