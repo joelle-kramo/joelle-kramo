@@ -49,6 +49,7 @@ Documentation technique.
 - HomeLab Windows
 - Cisco Packet Tracer
 - VirtualBox
+- WMware Workstation
 
 ## Objectif 2026
 
