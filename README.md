@@ -16,6 +16,7 @@ Cas de dépannage documentés.
 - INC-001 – Plus d'accès Internet
 - INC-002 – Imprimante réseau inaccessible
 - INC-003 – Compte utilisateur verrouillé
+- INC-004 — Poste ne rejoint plus le domaine
 
 ### Procédures
 
@@ -23,6 +24,7 @@ Documentation technique.
 
 - PROC-001 – Création d'un utilisateur Active Directory
 - PROC-002 – Réinitialisation d'un mot de passe
+- PROC-003 — Compte Active Directory vérouillé
 
 ### Réseau
 
