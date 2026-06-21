@@ -6,8 +6,9 @@
 
 ## À propos
 Bienvenue sur mon portfolio technique.
-Je documente ici des incidents informatiques, des procédures d'administration et des laboratoires réseaux inspirés de situations réelles rencontrées en entreprise.
-Mon objectif est de développer une démarche rigoureuse de diagnostic, de résolution et de documentation.
+Je documente ici des incidents informatiques, des procédures d'administration et des laboratoires réseaux réalisés dans un cadre de formation et de simulation en environnement virtualisé.
+Les scénarios présentés sont inspirés de situations rencontrées en support informatique et reproduits dans des environnements de type HomeLab (Windows Server, Active Directory, réseaux simulés).
+Mon objectif est de développer une démarche rigoureuse de diagnostic, de résolution et de documentation proche des pratiques en entreprise.
 
 ## Navigation
 ### Incidents
