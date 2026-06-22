@@ -5,7 +5,7 @@
 - CCNA en cours
 
 ## À propos
-Bienvenue sur mon portfolio technique.  
+Bienvenue sur mon portfolio technique,  
 
 Je documente ici des incidents informatiques, des procédures d'administration et des laboratoires réseaux réalisés dans un cadre de formation et de simulation en environnement virtualisé.  
 
