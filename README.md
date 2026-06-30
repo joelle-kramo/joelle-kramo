@@ -21,7 +21,6 @@ Cas de dépannage documentés.
 - INC-003 – Compte utilisateur verrouillé
 - INC-004 – Poste ne rejoint plus le domaine
 - INC-005 – Utilisateur ne reçoit plus ses e-mails
-- INC-006 – Conflit d'adresse IP
 
 ### Procédures
 
