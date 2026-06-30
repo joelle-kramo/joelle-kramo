@@ -1,6 +1,5 @@
 # Joëlle Kramo
 ### Étudiante en informatique spécialisée en systèmes et réseaux.
-À la recherche d'une alternance.
 - CompTIA A+ en cours
 - CCNA en cours
 
